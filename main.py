@@ -7,7 +7,6 @@ import numpy as np
 from bs4 import BeautifulSoup
 import requests
 import json
-from typing import Any, Dict, List, Tuple, Union
 
 verbs_movement = [
     "go",
