@@ -1,3 +1,19 @@
+To Russian version scroll down.
+
+# WhatToDoTomorrow
+
+This application is designed to help not to make stupid mistakes like "go cycling in the rain", as well as diversify life with the non-trivial activities. Potentially, this will help to make a schedule for longer period, not just for a 1 day.
+
+It uses Open Weather API (to know forecast to the next day) and The Bored API to help to choose activity relevant the weather.
+
+The algorithm of application:
+
+* User types the city of residence and preferred activity
+* The app makes request to API, analyze it and approve/disapprove your choice
+* If activity is not very suitable, app makes request to another API and give you alternative
+
+Enjoy the app!
+
 # WhatToDoTomorrow
 
 Изначально, пользователь указывает город, в котором он будет находиться на следующий день и вид активности, которым бы хотел заняться.
